@@ -17,7 +17,6 @@ hannes.porombka@gmail.com
 www.linkedin.com/in/hannes-porombka-73734584
 
 
-[![HapoGit89s GitHub stats](https://github-readme-stats.vercel.app/api?username=hapogit89)](https://github.com/hapogit89/github-readme-stats)
 
 
 

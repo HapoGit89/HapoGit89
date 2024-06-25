@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Hannes
+### Hi there 👋, I'm Hannes
 #### Web Developer & Musician
 ![Web Developer & Musician](https://github.com/HapoGit89/imgs/blob/main/arnold-francisca-f77Bh3inUpE-unsplash.jpg?raw=true)
 

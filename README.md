@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Hannes
 #### Web Developer & Musician
-![Web Developer & Musician](https://previews.dropbox.com/p/thumb/ACStnmuyW7I7Mnzp9HwBe_h3368rvY2d9eqfUtv4XLqYTOu0CZEU0Uj8y0Qw4eCBwGMGK_BmUe3TSY2CpZvKZyflb9FS66dxOnz1oU89mXMQLcX4rXPOS12Vuh4ESaOpSSknSjAd3C7MhHUuTdAvFtf6ZKv9KEM-8YTmSD71DaMOWUvwQUl5wMdktkm_R1I8rApGSyYIQ0mN25tS3on6TrBWUjZIhMMkkJk3qRYYF4OBdLfOwgKUt9TAWBiVW7pEjad4zhLkmF1zdzWYJjrleOBcU47DCWjlOIU-oHwNQdgmKIBKRRoOC2v_deWS_Q-sd87GoRhU6U_v4J1w1FReZQjc/p.jpeg)
+![Web Developer & Musician](https://github.com/HapoGit89/imgs/blob/main/arnold-francisca-f77Bh3inUpE-unsplash.jpg?raw=true)
 
 I recently graduated from **Springboard** and already started working on my first customer projects as a **freelance Web Developer**.
 

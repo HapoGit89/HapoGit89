@@ -9,7 +9,7 @@ Having worked as a Musician for the last 8 years, I discovered my love for codin
 Skills: REACT / JAVASCRIPT / NODE / EXPRESS / PYTHON / FLASK / POSTGRESQL
 
 - 🔭 I’m currently working on customer projects as freelancer 
-- 🌱 I’m currently learning typescript 
+- 🌱 I’m currently learning Typescript and Vue.js
 - 📫 How to reach me: hannes.porombka@gmail.com  
 
 

@@ -6,7 +6,7 @@ I recently graduated from **Springboard** and already started working on my firs
 
 Having worked as a Musician for the last 8 years, I discovered my love for coding while doing an computer science entry test at a local university just out of curiousity. Though passing the test, I decided to go the Bootcamp route at Springboard and 12 months later I am using my React, Javascript and Python based techstack to work on my first commercial projects as a freelancer.
 
-Skills: REACT / VUE/ JAVASCRIPT / NODE / EXPRESS / HONO/ PLAYWRIGHT/ PYTHON / FLASK / POSTGRESQL
+Skills: REACT / VUE / JAVASCRIPT / NODE / EXPRESS / HONO/ PLAYWRIGHT/ PYTHON / FLASK / POSTGRESQL
 
 - 🔭 I’m currently working on customer projects as freelancer 
 - 🌱 I’m currently learning PHP
